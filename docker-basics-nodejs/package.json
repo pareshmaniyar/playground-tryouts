@@ -1,0 +1,14 @@
+{
+  "name": "docker-basics-nodejs",
+  "version": "1.0.0",
+  "description": "Learning Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Paresh Maniyar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
